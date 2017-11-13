@@ -1,3 +1,3 @@
 # hello_world
 
-This is a simple program that will allow the basic Django/Python setup and then simply display basic information.
+We're switching the script on the whole bag of beans with BRANCHES, SON.
